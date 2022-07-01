@@ -26,7 +26,6 @@ Alternatively, you can also achieve the same effect by adding the following line
 1. This screen shot shows the language dropdown that will be hidden when this plugin is enabled.
 
 == Installation ==
-
 1. Upload the plugin package to the plugins directory of your site, or search for "Disable Login Language Selector" in the WordPress plugins directory from the Plugins section of your WordPress dashboard.
 2. Once uploaded or installed you must activate the plugin from the Plugins section of your WordPress dashboard.
 3. The language selector should no longer appear on the login screen of your site.
@@ -53,7 +52,7 @@ Perhaps you have a custom language selector in place already as part of an exist
 
 Or perhaps as is common, WordPress was installed with the default language set as English (United States). In these cases enabling a subsequent language would result in there being more than one language active, for example English (United States) and English (UK), therefore enabling the language selector regardless of whether you want to have multiple language options available to site users.
 
-= I have installed the plugin but I still see the language selector =
+= I have installed the plugin but I still see the language selector
 
 Check that the plugin has been correctly uploaded, installed and activated.
 
