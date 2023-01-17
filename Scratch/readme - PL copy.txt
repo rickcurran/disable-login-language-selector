@@ -3,7 +3,7 @@ Contributors: rickcurran
 Donate link: https://paypal.me/rickcurranqreate
 Tags: login, languages
 Requires at least: 5.9
-Tested up to: 6.1
+Tested up to: 5.9
 Stable tag: 1.0.1
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -12,6 +12,8 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Usuń selektor języka z ekranu logowania, jeśli masz włączony więcej niż jeden język w WordPress 5.9 i nowszych.
 
 == Opis ==
+
+__NOTE FROM RICK, THIS NEXT SECTION IS EXACTLY THE SAME AS ANOTHER SECTION BELOW__
 
 WordPress 5.9 dodał nowy selektor języka, aby umożliwić użytkownikom przełączanie języków z rozwijanej listy na ekranie logowania, jeśli w instalacji WordPressa włączony jest więcej niż jeden język. Ta wtyczka zapewnia szybki i łatwy sposób zapobiegający wyświetlaniu tego selektora języka.
 
@@ -34,6 +36,8 @@ Alternatywnie możesz osiągnąć ten sam efekt, dodając następujący wiersz k
 == Często Zadawane Pytania ==
 
 = Co robi ta wtyczka? =
+
+__NOTE FROM RICK, THIS NEXT SECTION IS EXACTLY THE SAME AS ANOTHER SECTION ABOVE__
 
 WordPress 5.9 dodał nowy selektor języka, aby umożliwić użytkownikom przełączanie języków z rozwijanej listy na ekranie logowania, jeśli w instalacji WordPressa włączony jest więcej niż jeden język. Ta wtyczka zapewnia szybki i łatwy sposób zapobiegający wyświetlaniu tego selektora języka.
 
